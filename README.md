@@ -26,12 +26,10 @@ DraftQ manifest let you define the structure of your ebook:
 
 Here is a sample code you can use as a template for draftq.yml
 
-  --- # Document Root
+	--- # Document Root
 	  sourceFiles: ['readme.md','en/redis.md']
 	  cover: 'en/title.png'
 	  metadata: 'en/metadata.xml'
-
-l
 
 **sourceFiles:** it represents the list of markdown files to import. You must specify them in the exact order. The sourceFiles value is defined as a [Yaml Generic Sequence](http://www.yaml.org/spec/1.2/spec.html#id2802662) and can be specified using both inline or block notation. sourceFiles is a mandatory field.
 
