@@ -18,11 +18,11 @@ Metadata is a subset of Dublin Core standard for define ebook metadata (author, 
 
 If you have an ebook repository and you want to add it to DraftQ, you must add a file called draftq.yml to your git repository.
 
-![](https://github.com/ideatosrl/DraftQ/blob/master/public/images/sample-repo.png?raw=true)
+![](https://github.com/DraftQ/DraftQ-manual/blob/master/public/images/sample-repo.png?raw=true)
 
 DraftQ manifest let you define the structure of your ebook:
 
-![](https://github.com/ideatosrl/DraftQ/blob/master/public/images/sample-manifest.png?raw=true)
+![](https://github.com/DraftQ/DraftQ-manual/blob/master/public/images/sample-manifest.png?raw=true)
 
 Here is a sample code you can use as a template for draftq.yml
 
