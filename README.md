@@ -37,6 +37,8 @@ Here is a sample code you can use as a template for draftq.yml
 
 **metadata:** the location of metadata file. Metadata is a mandatory field. For further information see the section below.
 
+Field's name are case sensitive.
+
 ###Metadata
 Metadata file contains information about your ebook, like title, author and abstract. It is represented as an xml document fragment and it support a subset of [Dublin Core Metadata Element Set](http://dublincore.org/documents/dces/).
 
