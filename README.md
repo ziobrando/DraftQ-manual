@@ -1,4 +1,4 @@
-#How does it works
+#How does it work
 
 ### How to write an ebook in GitHub
 
